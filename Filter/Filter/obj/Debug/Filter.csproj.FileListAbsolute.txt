@@ -1,0 +1,6 @@
+C:\Users\admttckramek\Documents\Visual Studio 2017\Projects\Filter\Filter\bin\Debug\Filter.dll
+C:\Users\admttckramek\Documents\Visual Studio 2017\Projects\Filter\Filter\bin\Debug\Filter.pdb
+C:\Users\admttckramek\Documents\Visual Studio 2017\Projects\Filter\Filter\obj\Debug\Filter.csprojAssemblyReference.cache
+C:\Users\admttckramek\Documents\Visual Studio 2017\Projects\Filter\Filter\obj\Debug\Filter.csproj.CoreCompileInputs.cache
+C:\Users\admttckramek\Documents\Visual Studio 2017\Projects\Filter\Filter\obj\Debug\Filter.dll
+C:\Users\admttckramek\Documents\Visual Studio 2017\Projects\Filter\Filter\obj\Debug\Filter.pdb
