@@ -18,10 +18,9 @@ namespace Filter
 
         public bool IsRequestClean()
         {
+            SVMController controler = new SVMController();
 
-
-
-            return true;
+            return controler.Classyfi(request.RawUrl.ToString());
         }
 
 

@@ -7,8 +7,8 @@ namespace Filter
 {
     class SVMDataManager
     {
-        private string negativeDataSetPath = @"C:\Users\kramek\Desktop\WAF\Result\NegativeDataSet.txt";
-        private string positiveDataSetPath = @"C:\Users\kramek\Desktop\WAF\Result\PositiveDataSet.txt";
+        private string negativeDataSetPath = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, @"bin\NegativeDataSet.txt");
+        private string positiveDataSetPath = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, @"bin\PositiveDataSet.txt");
 
         private List<string> requestText;
         private double[] classValue;
